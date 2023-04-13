@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1681063747 source:c:\users\kp\pictures\it projects\codeblocks\socketprog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1681261350 source:c:\users\kp\pictures\it projects\codeblocks\clientsocket\main.c
+	<stdio.h>
+	<winsock2.h>
+
